@@ -2,7 +2,7 @@
 Paraphrases for Sinhala words extracted using pivoting technique.<br>
 
 <em><b>ppdb-si-pivot-filtered.tar.xz</b></em> contains similar words.<br>
-Each line contains two or more similar words.<br>
+Each line contains two or more comma seperated similar words / short phrases.<br>
 Ex:<br>
 වෝර්ඩන් , අධ්‍යක්ෂක , මුර , පාලිකාව , පාලකයා , අධීක්ෂක , <br>
 කීපෙකදීම , කිහිපයක් , සමහරක් තුළ , ටිකකින් , සුළු මොහොතකින් , <br>
