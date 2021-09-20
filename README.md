@@ -1,7 +1,7 @@
 # ppdb-si
 Paraphrases for Sinhala words extracted using pivoting technique.<br>
 
-contains paraphrases. Ex:<br>
+ppdb-si-pivot-filtered.tar.xz file contains similar words. Ex:<br>
 වෝර්ඩන් , අධ්‍යක්ෂක , මුර , පාලිකාව , පාලකයා , අධීක්ෂක , <br>
 කීපෙකදීම , කිහිපයක් , සමහරක් තුළ , ටිකකින් , සුළු මොහොතකින් , <br>
 තරහකින්නේ , කෝපයෙන් , කෝපයට පත් විය , කෝපය , තරහයි , <br>
