@@ -11,4 +11,5 @@ Sample:<br>
 හැමවෙලාවකදීම , ඕනෑම වේලාවක , ඕනෑම අවස්ථාවක , සෑම විටම , නිතරම , සැමවිටම ,
 අණුකම්පාත් , අනුකම්පාව , කාරුණිකව , දයානුකම්පිත ය , 
 ```
-This corpus contains 2,049,676 such lines.
+This corpus contains 2,049,676 such lines.<br>
+Used Googel translate to translate Sinhala words to `german`, `chinese`, `arabic`, `french`, `russian`, `turkish`, `thai` then back to Sinhala.
